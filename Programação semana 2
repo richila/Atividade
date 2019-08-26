@@ -1,0 +1,19 @@
+public class Atividade2 {
+
+     public static void main(String[] args) {
+
+     double nota1, nota2, nota3, media;
+
+     nota1 = 8.5;
+
+     nota2 = 7.5;
+
+     nota3 = 6.0;
+
+     media = ((nota1*3+nota2*2+nota3*5)/10);
+
+     System.out.println("Média é igual a: " + media);
+
+     }
+
+}
